@@ -6,6 +6,14 @@ Built by [Zarelva](https://zarelva.com) — Fraud Intelligence & Risk Architectu
 
 ---
 
+## Fraud Signal Library
+
+This project uses fraud detection signals defined in the Zarelva Fraud Signal Library.
+
+https://github.com/Gururaj-GJ/fraud-signal-library
+
+---
+
 ## Overview
 
 This project explores fraud detection signals for autonomous AI agents.
